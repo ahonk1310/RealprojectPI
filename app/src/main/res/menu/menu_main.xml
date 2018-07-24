@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/buttonplanet"
+        android:icon="@drawable/icons_planet"
+        android:title="Tata Surya">
+        </item>
+    <item android:id="@+id/buttonkomet"
+        android:icon="@drawable/icons_comet"
+        android:title="komet">
+    </item>
+    <item android:id="@+id/buttonasteroid"
+        android:icon="@drawable/icons_asteroid"
+        android:title="asteroid">
+    </item>
+</menu>

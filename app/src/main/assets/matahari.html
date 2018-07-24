@@ -1,0 +1,184 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Matahari</title>
+    <style>
+     body {  }
+
+     #slidercontainer {
+      position: relative;
+      overflow: hidden;
+      width: 343px;
+      height: 280px;
+
+     }
+
+     #css3slider img {
+      width: 343px;
+      height: 280px;
+      float: left;
+     }
+
+     #css3slider {
+      position: absolute;
+      width:4900px;
+      -webkit-animation-name:slider;
+      -webkit-animation-duration:15s;
+      -webkit-animation-timing-function: ease-in-out;
+      -webkit-animation-iteration-count:infinite;
+      -moz-animation-name:slider;
+      -moz-animation-duration:15s;
+      -moz-animation-timing-function: ease-in-out;
+      -moz-animation-iteration-count:infinite;
+      -o-animation-name:slider;
+      -o-animation-duration:15s;
+      -o-animation-timing-function: ease-in-out;
+      -o-animation-iteration-count:infinite;
+      animation-name:slider;
+      animation-duration:15s;
+      animation-timing-function: ease-in-out;
+      animation-iteration-count:infinite;
+    }
+
+    @-webkit-keyframes slider {
+      0% { left: 0; opacity: 0; }
+      2% { opacity: 1; }
+      20% { left: 0; opacity: 1; }
+      21% { opacity: 0; }
+      24% { opacity: 0; }
+      25% { left: -343px; opacity: 1; }
+      45% { left: -343px; opacity: 1; }
+      46% { opacity: 0; }
+      48% { opacity: 0; }
+      50% { left: -686px; opacity: 1; }
+      70% { left: -686px; opacity: 1; }
+      72% { opacity: 0; }
+      74% { opacity: 0; }
+      75% { left: -1029px; opacity: 1; }
+      95% { left: -1029px; opacity: 1; }
+      97%  { left: -1029px; opacity: 0;}
+      100% { left: 0; opacity: 0; }
+    }
+
+    @-moz-keyframes slider {
+      0% { left: 0; opacity: 0; }
+      2% { opacity: 1; }
+      20% { left: 0; opacity: 1; }
+      21% { opacity: 0; }
+      24% { opacity: 0; }
+      25% { left: -343px; opacity: 1; }
+      45% { left: -343px; opacity: 1; }
+      46% { opacity: 0; }
+      48% { opacity: 0; }
+      50% { left: -686px; opacity: 1; }
+      70% { left: -686px; opacity: 1; }
+      72% { opacity: 0; }
+      74% { opacity: 0; }
+      75% { left: -1029px; opacity: 1; }
+      95% { left: -1029px; opacity: 1; }
+      97%  { left: -1029px; opacity: 0;}
+      100% { left: 0; opacity: 0; }
+    }
+
+    @-o-keyframes slider {
+      0% { left: 0; opacity: 0; }
+      2% { opacity: 1; }
+      20% { left: 0; opacity: 1; }
+      21% { opacity: 0; }
+      24% { opacity: 0; }
+      25% { left: -343px; opacity: 1; }
+      45% { left: -343px; opacity: 1; }
+      46% { opacity: 0; }
+      48% { opacity: 0; }
+      50% { left: -686px; opacity: 1; }
+      70% { left: -686px; opacity: 1; }
+      72% { opacity: 0; }
+      74% { opacity: 0; }
+      75% { left: -1029px; opacity: 1; }
+      95% { left: -1029px; opacity: 1; }
+      97%  { left: -1029px; opacity: 0; }
+      100% { left: 0; opacity: 0; }
+    }
+
+    @keyframes slider {
+      0% { left: 0; opacity: 0; }
+      2% { opacity: 1; }
+      20% { left: 0; opacity: 1; }
+      21% { opacity: 0; }
+      24% { opacity: 0; }
+      25% { left: -343px; opacity: 1; }      45% { left: -343px; opacity: 1; }
+      46% { opacity: 0; }
+      48% { opacity: 0; }
+      50% { left: -686px; opacity: 1; }
+      70% { left: -686px; opacity: 1; }
+      72% { opacity: 0; }
+      74% { opacity: 0; }
+      75% { left: -1029px; opacity: 1; }
+      95% { left: -1029px; opacity: 1; }
+      97%  { left: -1029px; opacity: 0; }
+      100% { left: 0; opacity: 0; }
+    }
+
+    #css3slider:hover {
+      -webkit-animation-play-state:paused;
+      -moz-animation-play-state:paused;
+      -o-animation-play-state:paused;
+      animation-play-state:paused; }
+    }
+
+    #css3slider img {
+      float: right;
+    }
+
+    #slidercontainer:after {
+      content: "??";
+      font-size: 150px;
+      position: absolute;
+      z-index: 12;
+      color: rgba(255,255,255, 0);
+      left: 300px; top: 80px;
+      -webkit-transition: 1s all ease-in-out;
+      -ms-transition: 1s all ease-in-out;
+      -moz-transition: 1s all ease-in-out;
+      -o-transition: 1s all ease-in-out;
+      transition: 1s all ease-in-out;
+    }
+
+    #slidercontainer:hover:after {
+      color: rgba(255,255,255, 0.6);
+    }
+    </style>
+</head>
+<body>
+<div id=slidercontainer>
+    <div id=css3slider>
+        <img src="images/matahari/matahari1.jpg" width="320px" height="280px">
+        <img src="images/matahari/matahari2.jpg" width="320px" height="280px">
+        <img src="images/matahari/matahari 3.jpg" width="320px" height="280px">
+
+
+
+    </div>
+</div>
+<center><h2>Matahari</h2></center>
+
+<p style="text-align:justify">
+    Matahari adalah bintang induk tata surya dan pusat dari tata surya.
+    Matahari adalah sebuah benda langit berupa bola gas (hidrogen dan helium) yang bercahaya  (berpijar).
+    Suhu pada permukaan matahari sekitar 6.000°C dan suhu pada inti (bagian dalam) matahari dapat mencapai 15 juta derajat celcius.
+    Matahari berbentuk bulat. Hal ini dapat kamu amati ketika matahari tampak mulai terbit dan terbenam.
+    Diameter matahari lebih kurang 1,4 juta km dan berukuran 332.830 massa bumi.
+
+    Dibandingkan dengan bintang-bintang lain, Matahari terlihat sangat besar.
+    Hal ini disebabkan jarak matahari ke bumi lebih dekat dibandingankan dengan jarak bintang-bintang lain ke bumi.
+    Menurut para ilmuan, jarak dari bumi ke matahari sekitar 500 detik cahaya.
+    Satu detik cahaya sama dengan 300.000 km. Jadi, jarak dari bumi ke matahari sama dengan 500 x 300.000 = 150.000.000 km.
+
+
+</p>
+<br/>
+<br/>
+</body>
+</html>

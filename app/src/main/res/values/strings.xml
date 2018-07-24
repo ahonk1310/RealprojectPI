@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Belajar Tata Surya</string>
+    <string-array name="planet_content">
+        <item>"Matahari"</item>
+        <item>"Merkurius"</item>
+        <item>"Venus"</item>
+        <item>"Bumi"</item>
+        <item>"Mars"</item>
+        <item>"Yupiter"</item>
+        <item>"Saturnus"</item>
+        <item>"Uranus"</item>
+        <item>"Neptunus"</item>
+    </string-array>
+    <string-array name="komet_content">
+        <item>Komet Halley</item>
+        <item>Komet Encke</item>
+        <item>Komet Kohoutek</item>
+        <item>Komet Ikeya-seki</item>
+        <item>Komet Hyakutake</item>
+    </string-array>
+    <string-array name="asteroid_content">
+        <item>Asteroid Ceres</item>
+        <item>Asteroid Pallas</item>
+        <item>Asteroid Vesta</item>
+        <item>Asteroid Hygiea</item>
+        <item>Asteroid Interamnia</item>
+    </string-array>
+
+    <string name="merah">Merah</string>
+    <string name="biru">Biru</string>
+    <string name="hijau">Hijau</string>
+    <string name="oranye">Orannye</string>
+    <string name="ungu">Ungu</string>
+    <string name="hitam">Hitam</string>
+
+
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+
+    </style>
+
+</resources>

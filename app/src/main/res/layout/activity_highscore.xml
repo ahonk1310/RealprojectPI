@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_highest_score"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.hamzah.realprojectpi.Highscore">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="30dp"
+            android:textSize="40dp"
+            android:padding="9dp"
+            android:textColor="#0091EA"
+            android:text="Ujian Selesai!"/>
+        <TextView
+            android:id="@+id/score_text"
+            android:layout_width="match_parent"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:textSize="30dp"
+            android:textColor="#fff"
+            android:background="#013ADF"/>
+
+        <Button
+            android:text="Coba Lagi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/buttonhijau"
+            android:id="@+id/buttoncoba"
+            android:onClick="onClick" />
+        <Button
+            android:text="kembali ke menu awal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/buttonmerah"
+            android:id="@+id/buttonKembali"
+            android:onClick="onClick11" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

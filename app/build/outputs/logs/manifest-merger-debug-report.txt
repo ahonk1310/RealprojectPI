@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.roughike:bottom-bar:1.3.3] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\bottom-bar-1.3.3.aar\0af867788eca946b3bbeda9c95d4e1e8\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:23.2.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b6120a2d36d14301fd154ff763af09bb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\5c2080f05e53871a084c9dc83f6c06a2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95867393d691e162e58cb9a35107816c\AndroidManifest.xml:2:1-11:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.7] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.7.aar\c98f58e7944179f13d166eff3a79d9bc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\cc1678ea88387c25d155b72de0953f78\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\cf6e7c40cd4fa1b17999aa46d70c9252\AndroidManifest.xml:17:1-28:12
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\7f392b62193d7eb2da5f88f36d30070d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\0f83cd39fc52f626fb2f9e92dd334840\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\5b507fd874950c982e77e9557ddf9982\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6c6ff7016f84149c5d8d1c63a7014f79\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\20dd357c7694175ab0b89a7d4b2ad18d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\eb8ca1b9706de5979cc777977d267499\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\04f7d979ead8d62ecf8289a14e1ff47e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\80c0fe66be625f8244d3363e8ea7c00b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\462521d9f044e364762e4f601ad28bee\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support:design:23.2.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b6120a2d36d14301fd154ff763af09bb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b6120a2d36d14301fd154ff763af09bb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\5c2080f05e53871a084c9dc83f6c06a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\5c2080f05e53871a084c9dc83f6c06a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95867393d691e162e58cb9a35107816c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95867393d691e162e58cb9a35107816c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\cf6e7c40cd4fa1b17999aa46d70c9252\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\cf6e7c40cd4fa1b17999aa46d70c9252\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\0f83cd39fc52f626fb2f9e92dd334840\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\0f83cd39fc52f626fb2f9e92dd334840\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\5b507fd874950c982e77e9557ddf9982\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\5b507fd874950c982e77e9557ddf9982\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6c6ff7016f84149c5d8d1c63a7014f79\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6c6ff7016f84149c5d8d1c63a7014f79\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\20dd357c7694175ab0b89a7d4b2ad18d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\20dd357c7694175ab0b89a7d4b2ad18d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\eb8ca1b9706de5979cc777977d267499\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\eb8ca1b9706de5979cc777977d267499\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\04f7d979ead8d62ecf8289a14e1ff47e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\04f7d979ead8d62ecf8289a14e1ff47e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\80c0fe66be625f8244d3363e8ea7c00b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\80c0fe66be625f8244d3363e8ea7c00b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\462521d9f044e364762e4f601ad28bee\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\462521d9f044e364762e4f601ad28bee\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:9:9-48
+	android:icon
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.hamzah.realprojectpi.MainActivity
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:13:13-49
+	android:name
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.hamzah.realprojectpi.QuizActivity
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:19:9-20:54
+	android:parentActivityName
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.hamzah.realprojectpi.Content
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:21:19-42
+activity#com.hamzah.realprojectpi.Fragmentactivity
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:22:9-23:57
+	android:parentActivityName
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:23:13-55
+	android:name
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:22:19-51
+activity#com.hamzah.realprojectpi.about
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:24:9-42
+	android:name
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:24:19-40
+activity#com.hamzah.realprojectpi.Highscore
+ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml:25:19-44
+uses-sdk
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+MERGED from [com.roughike:bottom-bar:1.3.3] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\bottom-bar-1.3.3.aar\0af867788eca946b3bbeda9c95d4e1e8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:1.3.3] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\bottom-bar-1.3.3.aar\0af867788eca946b3bbeda9c95d4e1e8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:23.2.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b6120a2d36d14301fd154ff763af09bb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\b6120a2d36d14301fd154ff763af09bb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\5c2080f05e53871a084c9dc83f6c06a2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\5c2080f05e53871a084c9dc83f6c06a2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95867393d691e162e58cb9a35107816c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95867393d691e162e58cb9a35107816c\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.7] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.7.aar\c98f58e7944179f13d166eff3a79d9bc\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.7] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.7.aar\c98f58e7944179f13d166eff3a79d9bc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\cc1678ea88387c25d155b72de0953f78\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\cc1678ea88387c25d155b72de0953f78\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\cf6e7c40cd4fa1b17999aa46d70c9252\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\cf6e7c40cd4fa1b17999aa46d70c9252\AndroidManifest.xml:20:5-43
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\7f392b62193d7eb2da5f88f36d30070d\AndroidManifest.xml:7:5-9:41
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\7f392b62193d7eb2da5f88f36d30070d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\0f83cd39fc52f626fb2f9e92dd334840\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\0f83cd39fc52f626fb2f9e92dd334840\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\5b507fd874950c982e77e9557ddf9982\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\5b507fd874950c982e77e9557ddf9982\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6c6ff7016f84149c5d8d1c63a7014f79\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\6c6ff7016f84149c5d8d1c63a7014f79\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\20dd357c7694175ab0b89a7d4b2ad18d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\20dd357c7694175ab0b89a7d4b2ad18d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\eb8ca1b9706de5979cc777977d267499\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\eb8ca1b9706de5979cc777977d267499\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\04f7d979ead8d62ecf8289a14e1ff47e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\04f7d979ead8d62ecf8289a14e1ff47e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\80c0fe66be625f8244d3363e8ea7c00b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\80c0fe66be625f8244d3363e8ea7c00b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\462521d9f044e364762e4f601ad28bee\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\462521d9f044e364762e4f601ad28bee\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\5c2080f05e53871a084c9dc83f6c06a2\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+		ADDED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+		INJECTED from E:\RealprojectPI\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\cc1678ea88387c25d155b72de0953f78\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\cf6e7c40cd4fa1b17999aa46d70c9252\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\cf6e7c40cd4fa1b17999aa46d70c9252\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\80c0fe66be625f8244d3363e8ea7c00b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\80c0fe66be625f8244d3363e8ea7c00b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\462521d9f044e364762e4f601ad28bee\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\462521d9f044e364762e4f601ad28bee\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\cc1678ea88387c25d155b72de0953f78\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\koko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\cc1678ea88387c25d155b72de0953f78\AndroidManifest.xml:23:9-47

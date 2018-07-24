@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity"
+    android:background="@color/background">
+
+
+        <LinearLayout
+            android:id="@+id/lin_2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/background">
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/mainmenu"
+            android:id="@+id/imagegif"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonmateri"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:text="materi"
+            android:background="@drawable/buttonbiru"
+            android:layout_below="@+id/lin_2"
+            android:layout_centerHorizontal="true" />
+        <Button
+            android:id="@+id/buttonkuis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="28dp"
+            android:text="kuis"
+            android:background="@drawable/buttonoranye"
+            android:layout_below="@+id/buttonmateri"
+            android:layout_centerHorizontal="true" />
+        <Button
+            android:id="@+id/buttonabout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="28dp"
+            android:text="tentang"
+            android:background="@drawable/buttonhijau"
+            android:layout_below="@+id/buttonkuis"
+            android:layout_centerHorizontal="true"
+             />
+        <Button
+            android:id="@+id/buttonkeluar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="28dp"
+            android:text="keluar"
+            android:background="@drawable/buttonungu"
+            android:layout_below="@+id/buttonabout"
+            android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

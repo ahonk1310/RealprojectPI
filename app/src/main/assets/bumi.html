@@ -1,0 +1,191 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Bumi</title>
+    <style>
+     body {  }
+
+     #slidercontainer {
+      position: relative;
+      overflow: hidden;
+      width: 343px;
+      height: 280px;
+
+     }
+
+     #css3slider img {
+      width: 343px;
+      height: 280px;
+      float: left;
+     }
+
+     #css3slider {
+      position: absolute;
+      width:4900px;
+      -webkit-animation-name:slider;
+      -webkit-animation-duration:15s;
+      -webkit-animation-timing-function: ease-in-out;
+      -webkit-animation-iteration-count:infinite;
+      -moz-animation-name:slider;
+      -moz-animation-duration:15s;
+      -moz-animation-timing-function: ease-in-out;
+      -moz-animation-iteration-count:infinite;
+      -o-animation-name:slider;
+      -o-animation-duration:15s;
+      -o-animation-timing-function: ease-in-out;
+      -o-animation-iteration-count:infinite;
+      animation-name:slider;
+      animation-duration:15s;
+      animation-timing-function: ease-in-out;
+      animation-iteration-count:infinite;
+    }
+
+    @-webkit-keyframes slider {
+      0% { left: 0; opacity: 0; }
+      2% { opacity: 1; }
+      20% { left: 0; opacity: 1; }
+      21% { opacity: 0; }
+      24% { opacity: 0; }
+      25% { left: -343px; opacity: 1; }
+      45% { left: -343px; opacity: 1; }
+      46% { opacity: 0; }
+      48% { opacity: 0; }
+      50% { left: -686px; opacity: 1; }
+      70% { left: -686px; opacity: 1; }
+      72% { opacity: 0; }
+      74% { opacity: 0; }
+      75% { left: -1029px; opacity: 1; }
+      95% { left: -1029px; opacity: 1; }
+      97%  { left: -1029px; opacity: 0;}
+      100% { left: 0; opacity: 0; }
+    }
+
+    @-moz-keyframes slider {
+      0% { left: 0; opacity: 0; }
+      2% { opacity: 1; }
+      20% { left: 0; opacity: 1; }
+      21% { opacity: 0; }
+      24% { opacity: 0; }
+      25% { left: -343px; opacity: 1; }
+      45% { left: -343px; opacity: 1; }
+      46% { opacity: 0; }
+      48% { opacity: 0; }
+      50% { left: -686px; opacity: 1; }
+      70% { left: -686px; opacity: 1; }
+      72% { opacity: 0; }
+      74% { opacity: 0; }
+      75% { left: -1029px; opacity: 1; }
+      95% { left: -1029px; opacity: 1; }
+      97%  { left: -1029px; opacity: 0;}
+      100% { left: 0; opacity: 0; }
+    }
+
+    @-o-keyframes slider {
+      0% { left: 0; opacity: 0; }
+      2% { opacity: 1; }
+      20% { left: 0; opacity: 1; }
+      21% { opacity: 0; }
+      24% { opacity: 0; }
+      25% { left: -343px; opacity: 1; }
+      45% { left: -343px; opacity: 1; }
+      46% { opacity: 0; }
+      48% { opacity: 0; }
+      50% { left: -686px; opacity: 1; }
+      70% { left: -686px; opacity: 1; }
+      72% { opacity: 0; }
+      74% { opacity: 0; }
+      75% { left: -1029px; opacity: 1; }
+      95% { left: -1029px; opacity: 1; }
+      97%  { left: -1029px; opacity: 0; }
+      100% { left: 0; opacity: 0; }
+    }
+
+    @keyframes slider {
+      0% { left: 0; opacity: 0; }
+      2% { opacity: 1; }
+      20% { left: 0; opacity: 1; }
+      21% { opacity: 0; }
+      24% { opacity: 0; }
+      25% { left: -343px; opacity: 1; }      45% { left: -343px; opacity: 1; }
+      46% { opacity: 0; }
+      48% { opacity: 0; }
+      50% { left: -686px; opacity: 1; }
+      70% { left: -686px; opacity: 1; }
+      72% { opacity: 0; }
+      74% { opacity: 0; }
+      75% { left: -1029px; opacity: 1; }
+      95% { left: -1029px; opacity: 1; }
+      97%  { left: -1029px; opacity: 0; }
+      100% { left: 0; opacity: 0; }
+    }
+
+    #css3slider:hover {
+      -webkit-animation-play-state:paused;
+      -moz-animation-play-state:paused;
+      -o-animation-play-state:paused;
+      animation-play-state:paused; }
+    }
+
+    #css3slider img {
+      float: right;
+    }
+
+    #slidercontainer:after {
+      content: "??";
+      font-size: 150px;
+      position: absolute;
+      z-index: 12;
+      color: rgba(255,255,255, 0);
+      left: 300px; top: 80px;
+      -webkit-transition: 1s all ease-in-out;
+      -ms-transition: 1s all ease-in-out;
+      -moz-transition: 1s all ease-in-out;
+      -o-transition: 1s all ease-in-out;
+      transition: 1s all ease-in-out;
+    }
+
+    #slidercontainer:hover:after {
+      color: rgba(255,255,255, 0.6);
+    }
+    </style>
+</head>
+<body>
+<div id=slidercontainer>
+    <div id=css3slider>
+        <img src="images/bumi/bumi.jpg" width="320px" height="280px">
+        <img src="images/bumi/bumi1.jpg" width="320px" height="280px">
+
+
+
+
+
+    </div>
+</div>
+<center><h2>Bumi</h2></center>
+
+<p style="text-align:justify">
+    Bumi adalah planet ketiga dari Matahari.
+    Dilihat dari luar angkasa, Bumi berwarna biru.
+    Sebagian besar permukaan Bumi di tutupi oleh air yang membentuk lautan.
+    Bumi adalah satu-satunya planet yang memiliki air dalam wujud cair.
+    Air juga terdapat di awan dalam bentuk kristal es.
+    Inilah yang menbentuk selaput putih pada permukaan Bumi jika di lihar dari luar angkasa.
+    Bumi berbentuk bulat dan berdiameter kira-kira 12.760 km.
+    Jarak Bumi ke Matahari adalah 150 juta km.
+    Waktu yang dibutuhkan Bumi mengelilingi Matahari satu kali ( kala revolusi) adalah 365 hari.
+    Kala revolusi Bumi ditetapkan sebagai satuan waktu yang di sebut satu tahun.
+    Selain berevolusi, Bumi juga mengadakan rotasi dengan kala rotasi 24 jam atau 1 hari.
+
+    Atmosfer Bumi tersusun atas nitrogen  78%, oksigen 21 %, dan di tambah 1% gas-gas lain  seperti argon, hidrogen, karbon dioksida, helium, dan lain-lain.
+    Komposisi atmosfer yang demikian dan adanya air memungkinkan makluk hidup  ada di bumi dan Bumi merupakan satu-satunya planet di Tata Surya yang di huni makluk hidup.
+    Bumi memiliki gaya gravitasi. Gaya inilah yang menjaga kita semua tidak terlempar ke ruang angkasa.
+    Gaya ini juga yang menjaga satelit Bumi satu-satunya yaitu bulan, tetap berada pada lintasannya mengedari Bumi.
+
+</p>
+<br/>
+<br/>
+</body>
+</html>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:id="@+id/scrolllView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aplikasi e-learning Tata surya ini dibuat untuk membantu para siswa Sekolah Dasar memahami dari pelajaran tata surya"
+        android:textSize="18dp" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/contact_image"
+                android:src="@drawable/ok"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+            <TextView
+                android:id="@+id/txt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@+id/contact_image"
+                android:text="Nama : Hamzah Miftahul Huda"
+                android:textSize="17dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt1"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@+id/contact_image"
+                android:text="NPM   : 54414720"
+                android:textSize="17dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt2"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@+id/contact_image"
+                android:text="Kelas  : 4IA06"
+                android:textSize="17dp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+</LinearLayout>
